@@ -1,7 +1,7 @@
 
 # Fast API Assignment
 
-Python Fast API assignment project to compute on airline dataset
+Python Fast API assignment project for Secure Web Application Deployment
 
 ## Tech Stack
 
